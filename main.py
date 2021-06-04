@@ -1,7 +1,3 @@
-
-# Author:           Luke Slinkert
-# Lab:              Lab 3
-# Date:             4/26/21
 # Description:      This program is used to quote tshirt printing price based on
 #                   the amount of colors and quantity of tshirts ordered.
 # Input:            Integer
